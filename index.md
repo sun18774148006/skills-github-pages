@@ -1,4 +1,4 @@
 ---
-title:welcome
+title: welcome
 ---
 I love you
